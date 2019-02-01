@@ -1,0 +1,6 @@
+c:\users\1007787\documents\visual studio 2015\Projects\IniToDynamic\IniToDynamic\bin\Debug\IniToDynamic.exe.config
+c:\users\1007787\documents\visual studio 2015\Projects\IniToDynamic\IniToDynamic\bin\Debug\IniToDynamic.exe
+c:\users\1007787\documents\visual studio 2015\Projects\IniToDynamic\IniToDynamic\bin\Debug\IniToDynamic.pdb
+c:\users\1007787\documents\visual studio 2015\Projects\IniToDynamic\IniToDynamic\obj\Debug\IniToDynamic.csprojResolveAssemblyReference.cache
+c:\users\1007787\documents\visual studio 2015\Projects\IniToDynamic\IniToDynamic\obj\Debug\IniToDynamic.exe
+c:\users\1007787\documents\visual studio 2015\Projects\IniToDynamic\IniToDynamic\obj\Debug\IniToDynamic.pdb
